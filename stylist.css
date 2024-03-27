@@ -4,3 +4,8 @@ h1 {
 body {
   background-color: yellow;
 }
+body {
+  background-image: url(/images/gallery02.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
